@@ -1,0 +1,13 @@
+{
+  "applicant": {
+    "name": "Joss",
+    "surname": "Stone"
+  },
+  "application": {
+    "announcementId": 2,
+    "givenInput": {
+      "profileLink": "https://dummypage.com",
+      "cvFileName": "myAwesomeCv.pdf"
+    }
+  }
+}

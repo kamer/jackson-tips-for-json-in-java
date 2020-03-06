@@ -1,0 +1,20 @@
+{
+  "title": "2019-2020 Algorithms Final Exam",
+  "lecture": "Algorithms",
+  "examDate": "2020-03-04T09:00:00.000Z",
+  "studentNumber": 75,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "What is an asymptotic notation?"
+    },
+    {
+      "questionNumber": 2,
+      "questions": "Find worst case for insertion sort?"
+    },
+    {
+      "questionNumber": 3,
+      "question": "Which algorithm would you choose to sort 1m numbers, why?"
+    }
+  ]
+}
